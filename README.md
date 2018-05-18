@@ -1,5 +1,5 @@
 # exercises-suggestion
-模仿优酷下拉提示
+Imitate the suggestion feature of youku.com. 模仿优酷下拉提示
 
 ## start
 
