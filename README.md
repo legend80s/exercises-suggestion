@@ -1,5 +1,5 @@
-# exercises-suggestion
-Imitate the suggestion feature of youku.com. 模仿优酷下拉提示
+# exercises suggestion
+Front-end Exercise1: Imitate the suggestion feature of youku.com. 模仿优酷下拉提示
 
 ## start
 
