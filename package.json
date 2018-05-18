@@ -1,0 +1,25 @@
+{
+  "name": "suggestion",
+  "version": "1.0.0",
+  "description": "前端练习之模仿优酷下拉提示",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legend80s/exercises-suggestion.git"
+  },
+  "keywords": [
+    "前端",
+    "练习",
+    "优酷",
+    "下拉提示"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legend80s/exercises-suggestion/issues"
+  },
+  "homepage": "https://github.com/legend80s/exercises-suggestion#readme"
+}
